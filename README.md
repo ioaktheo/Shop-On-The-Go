@@ -1,6 +1,6 @@
 # Shop On The Go
 
-Shop On The go is an Android application that alerts you about nearby discounts and offers based on your profile. This application was developed during the 'Software Technology' course of the Technological Educational Institute of Central Macedonia by a team of 5 members. 
+Shop On The go is an Android application that alerts you about nearby discounts and offers based on your profile. This application was developed during the 'Software Technology' course of the Technological Educational Institute of Central Macedonia.
 
 
 ## Getting Started
